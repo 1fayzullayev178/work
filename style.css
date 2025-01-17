@@ -1,0 +1,12 @@
+h1{
+    border: 2px solid red;text-align: center; border-radius: 20px; background-color: rgb(188, 170, 255);
+}
+.zoo{
+    background-color: yellow;
+}
+table{
+    border: 1px solid grey; color: white;background-color: black; width: 900px;
+}
+tr{
+   border: 1px solid grey;text-align: center;
+}
